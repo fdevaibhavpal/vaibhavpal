@@ -2,6 +2,12 @@
 
 ### Frontend-Focused Full Stack Developer (65% Frontend | 35% Backend)
 
+<p align="center">
+  <img src="./gitprofile.png" width="100%">
+</p>
+
+---
+
 React | TypeScript | Node.js | AWS
 
 I am a passionate **Frontend-heavy Full Stack Developer** with strong experience building scalable and performant web applications.
@@ -13,6 +19,8 @@ I focus on creating **fast, maintainable, and scalable products** using modern w
 * 🌱 Learning **Cloud Architecture, System Design & AI integrations**
 * 👨‍💻 Stack split: **65% Frontend | 35% Backend**
 * ⚡ I enjoy turning complex problems into simple and elegant UI experiences
+
+
 
 ---
 
@@ -52,14 +60,6 @@ I focus on creating **fast, maintainable, and scalable products** using modern w
 * MongoDB
 * PostgreSQL
 * MySQL
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fdevaibhavpal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?fdevaibhavpal=dwaa&layout=compact&theme=tokyonight)
 
 ---
 
